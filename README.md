@@ -1,4 +1,4 @@
-# Formation Interactive Media Designer
+# Les documents de la formation Interactive Media Designer
 
 Vous trouverez ici les trois documents qui définissent le cadre de la formation professionnelle Interactive Media Designer (IMD). Ils sont communs à toutes les écoles de Suisse délivrant ce CFC. Voir [orientation.ch](https://www.orientation.ch/dyn/show/1900?id=45).
 
