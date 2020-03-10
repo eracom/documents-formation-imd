@@ -10,4 +10,4 @@ Les organisations en lien avec ces documents:
 
 - [SEFRI](https://www.sbfi.admin.ch/sbfi/fr/home.html): Secrétariat d'Etat à la formation, à la recherche et à l'innovation
 - [Viscom](https://www.viscom.ch): association patronale de l'industrie suisse des arts graphiques. 
-- [SIMD](https://www.simd.ch)
+- [SIMD](http://www.simd.ch/)
