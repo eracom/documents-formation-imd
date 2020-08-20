@@ -4,7 +4,7 @@ Vous trouverez ici les trois documents qui définissent le cadre de la formation
 
 - L’[ordonnance fédérale](Ordonnance-SEFRI-IMD.pdf) établie en 2013 par le SEFRI (Secrétariat d'Etat à la formation, à la recherche et à l'innovation).
 - Le **[plan de formation](Plan_de_Formation_IMD_2013.pdf)** (Bildungsplan). Etabli en 2013. Définit les compétences opérationnelles de la formation, et chiffre les heures.
-- Le **[plan pédagogique](Plan_Pedagogique_IMD_2014.pdf)**, ou plan d’études cadre (Rahmenlehrplan). Etabli en 2013, [actualisé en 2019](Plan_Pedagogique_IMD_2019.pdf). Fournit un cadre pour l’élaboration des plans d’étude école et facilite aux partenaires la coordination de la formation. Nouveauté de la version 2019: spécifie à quel semestre les compétences doivent être enseignées.
+- Le **[PEC (plan d’études cadre)](Plan_Pedagogique_IMD_2019.pdf)** (Rahmenlehrplan), ou "plan pédagogique". Etabli en 2013, actualisé en 2019. Fournit un cadre pour l’élaboration des plans d’étude école et facilite aux partenaires la coordination de la formation. Nouveauté de la version 2019: spécifie à quel semestre les compétences doivent être enseignées.
 
 ## Les organisations en lien avec ces documents:
 
