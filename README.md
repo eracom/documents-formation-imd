@@ -2,7 +2,7 @@
 
 Vous trouverez ici les trois documents qui définissent le cadre de la formation professionnelle Interactive Media Designer (IMD). Ils sont communs à toutes les écoles de Suisse délivrant ce CFC. 
 
-## Documents 2024
+## Documents 2024
 
 Les documents pour les classes commençant en 2024-25 qui auront l'examen en 2027-28:
 
