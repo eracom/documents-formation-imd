@@ -13,7 +13,7 @@ Les documents pour les classes commençant en 2024-25 qui auront l'examen en 202
 
 ## Archives
 
-Documents anciens, pour les classes des années précédentes (ayant commencé en 2023, finissant la formation en 2026-27): 
+Documents anciens, pour les classes des années précédentes (ayant commencé en 2023 ou avant, finissant la formation en 2026-27): 
 
 1. L’[ordonnance fédérale](archive/Ordonnance_SEFRI_IMD_.pdf) établie en 2013.
 2. Le **[plan de formation](archive/Plan_de_Formation_IMD_2013.pdf)** (Bildungsplan). Etabli en 2013. Définit les compétences opérationnelles de la formation, et chiffre les heures.
