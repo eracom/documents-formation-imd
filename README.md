@@ -10,7 +10,7 @@ Les documents pour les classes commençant en 2024-25 qui auront l'examen en 202
 2. Le **[plan de formation](Plan_de_Formation_IMD_2023.pdf)** (Bildungsplan), version du 10 juillet 2023. Définit les compétences opérationnelles.
 3. Explicatif du **[système modulaire](Systeme_modulaire_IMD.pdf)** ("Modulbaukasten"), qui remplace le plan d'études cadre. Le système modulaire pour IMD se compose au total de 23 modules pour les écoles professionnelles et de 5 modules pour les cours interentreprises.
 4. Le **[système modulaire](4_IMD_MBK_231030_def_fr.xlsx)**, format Excel.
-5. La **[Lektionentafel](5_RLP_IMD_Lektionentafel_211101.pdf)** présente le tableau des périodes pour la révision 2024.
+5. La **[Lektionentafel](5_RLP_IMD_Lektionentafel_211101.pdf)** présente le tableau des périodes (enseignement en école) pour la révision 2024.
 
 ## Archives
 
